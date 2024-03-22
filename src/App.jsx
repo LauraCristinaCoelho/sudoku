@@ -1,0 +1,16 @@
+import { Home } from "./container/Home";
+
+export const App = () => <Home />;
+  
+
+/*
+import { Home } from "./container/Home";
+
+export const App = () => {
+    return (
+        <Home />
+    );
+}
+
+export default App;
+*/
